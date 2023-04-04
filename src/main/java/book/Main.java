@@ -1,4 +1,4 @@
-package api.book;
+package book;
 
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;

@@ -1,4 +1,4 @@
-package api.book;
+package book;
 
 class Book {
 
